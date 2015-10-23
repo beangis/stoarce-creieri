@@ -1,0 +1,6 @@
+{
+        "titlu": "Piticii",
+        "enunt": "20 de pitici sunt captivi intr-o pestera intunecata. Fiecare are cate o caciula colorata in rosu sau albastru pe cap. Monstrul care i-a prins si vrea sa-i manance la cina le-a dat o sansa de scapare: daca ei reusesc sa se alinieze imediat cum ies din pestera dupa culorile caciulilor (nu va exista niciun pitic cu caciula albastra intre doi pitici cu caciuli rosii; nu va exista niciun pitic cu caciula rosie intre doi pitici cu caciuli albastre) ii elibereaza si va mai cauta o alta prada. Ei nu se pot vedea intre ei cat stau in pestera, dar pot stabili o strategie. Ei nu mai au voie sa vorbeasca dupa ce ies din pestera. Cum scapa cei 20 de pitici?",
+        "raspuns": "Va iesi primul pitic. Al doilea se aseaza langa el. Al treilea se uita la culorile caciulilor celor doi si daca cei doi au culori diferite se va aseza intre ei, iar daca nu se va duce langa oricare dintre cei doi, dar nu intre ei. Urmatorul se va asezaintre cele doua caciuli de culori diferite, daca exista, sau la margine daca toate caciulile pe care le vede sunt de aceeasi culoare. Si tot asa..",
+        "dificultate": 3
+}
